@@ -1,4 +1,4 @@
-module github.com/MetaCubeX/Clash.Meta
+module github.com/qiuzhifei/Clash.Meta
 
 go 1.18
 
